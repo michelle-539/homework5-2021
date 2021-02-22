@@ -169,8 +169,8 @@ header{
   border: 10px solid black;
   padding: 30px;
   display: grid;
-  justify-content: center;
-  align-content: center;
+  justify-self: center;
+  align-self: center;
 
 }
 
